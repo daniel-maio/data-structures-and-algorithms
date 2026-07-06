@@ -12,4 +12,4 @@ A collection of algorithm and data structure implementations.
 
 ## Purpose
 
-This repository serves as a personal reference for studying algorithms, improving problem-solving skills, and practicing coding interview questions with clean, well-documented implementations.
+This repository serves as a personal reference for studying algorithms.
